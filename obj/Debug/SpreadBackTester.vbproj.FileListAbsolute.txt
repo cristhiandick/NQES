@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.exe
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.pdb
+C:\Users\Owner\Desktop\NQESHACK\bin\TrendSystemSep05.exe
+C:\Users\Owner\Desktop\NQESHACK\bin\TrendSystemSep05.pdb
+C:\Users\Owner\Desktop\NQESHACK\bin\TrendSystemSep05.xml
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.Form1.resources
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.Form2.resources
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.Form3.resources
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\SpreadBackTester.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.exe.licenses
+C:\Users\Owner\Desktop\NQESHACK\obj\Debug\TrendSystemSep05.xml

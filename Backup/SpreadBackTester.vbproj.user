@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <VisualBasic LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "C:\Documents and Settings\cd789\My Documents\Trading\ta-lib-0.1.4-msvc\ta-lib\dotnet\src\Core\Release\;C:\Documents and Settings\Saul Pardo\Desktop\ta-lib-0.1.4-msvc\ta-lib\dotnet\src\Core\Release\;C:\Documents and Settings\cd789\My Documents\TradeFolders\Trading\ta-lib-0.1.4-msvc\ta-lib\dotnet\src\Core\Release\;C:\Program Files\ChartFX Lite for .NET\bin\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </VisualBasic>
+</VisualStudioProject>
+
